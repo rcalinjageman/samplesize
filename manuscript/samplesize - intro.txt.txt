@@ -965,3 +965,6 @@ Now that we have presented you with instructions for all of Leanpub's course-spe
 In the `manuscript` folder in this course, you will see that these quizzes are written in separate files. To make files show up in the course when you create a new preview or publish a new version, you need to type their file names in the `Book.txt` file you will find in the `manuscript` folder.
 
 Have fun!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1MDU0NzU3NDhdfQ==
+-->
