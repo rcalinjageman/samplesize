@@ -1,6 +1,6 @@
 # Introduction
 
-In this course you will learn how to make a Leanpub course with all the course-specific options we've built for you.
+Edited in stackedit.io
 
 The intention of this course is to show:
 
@@ -966,5 +966,5 @@ In the `manuscript` folder in this course, you will see that these quizzes are w
 
 Have fun!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDU0NzU3NDhdfQ==
+eyJoaXN0b3J5IjpbMTU1NTQyMjM4NV19
 -->
